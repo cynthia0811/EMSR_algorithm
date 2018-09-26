@@ -1,2 +1,2 @@
 # EMSR_algorithm
-收益管理书 例7.3 EMSR-a/b算法
+《Pricing And Revenue Optimization》 Page 163 Example 7.5  table 7.3 EMSR-a/b
